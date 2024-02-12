@@ -1,0 +1,24 @@
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\bin\Debug\atechnoreg.exe.config
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\bin\Debug\atechnoreg.exe
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\bin\Debug\atechnoreg.pdb
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\bin\Debug\atechnoreg.xml
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.Resources.resources
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.exe
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.xml
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.pdb
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.Form1.resources
+C:\Users\asus\source\repos\atechnoreg\atechnoreg\obj\Debug\atechnoreg.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\bin\Debug\atechnoreg.exe.config
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\bin\Debug\atechnoreg.exe
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\bin\Debug\atechnoreg.pdb
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\bin\Debug\atechnoreg.xml
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.Form1.resources
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.Resources.resources
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.vbproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.exe
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.xml
+C:\Users\ASUS\Downloads\A techno Registration\atechnoreg\obj\Debug\atechnoreg.pdb

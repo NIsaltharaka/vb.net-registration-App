@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+atechnoreg
+</name>
+</assembly>
+<members>
+<member name="T:atechnoreg.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:atechnoreg.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:atechnoreg.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:atechnoreg.My.Resources.Resources._0b528dd5a822d5e16d143138534514aa_62021588164438plqnqqtuwg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:atechnoreg.My.Resources.Resources._956caa4658a9d6e289a193ac6e290de8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:atechnoreg.My.Resources.Resources.ui">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet.cusTable_1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet.cusTable_1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet.cusTable_1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSetTableAdapters.cusTable_1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(atechnoreg.atechnoregDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(atechnoreg.atechnoregDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(atechnoreg.atechnoregDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.UpdateAll(atechnoreg.atechnoregDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1.cusTable_1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1.cusTable_1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1.cusTable_1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1TableAdapters.cusTable_1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(atechnoreg.atechnoregDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(atechnoreg.atechnoregDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(atechnoreg.atechnoregDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.UpdateAll(atechnoreg.atechnoregDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:atechnoreg.atechnoregDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
